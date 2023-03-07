@@ -1,13 +1,13 @@
-##Project Title
+Project Title:
 Amazon Best Selling Books From Year 2009 to 2022
 
-##Project Description
+Project Description:
 Implemented EDA (Exploratory Data Analysis). 
 
-##Environment
+Environment:
 Jupyter Notebook
 
-##Programming Language
+Programming Language:
 Python
 
 
